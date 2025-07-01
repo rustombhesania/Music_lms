@@ -7,4 +7,5 @@ streamlit
 scipy
 dtw-python
 noisereduce
+pydub
 
