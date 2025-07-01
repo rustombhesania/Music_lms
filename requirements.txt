@@ -1,0 +1,10 @@
+librosa
+numpy
+matplotlib
+seaborn
+soundfile
+streamlit
+scipy
+dtw-python
+noisereduce
+
